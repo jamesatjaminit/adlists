@@ -1,2 +1,1 @@
-# adlists
- 
+# blocklists
